@@ -1,0 +1,17 @@
+{
+  "Software Developer": [
+    "programming", "code", "algorithm", "database", "api",
+    "testing", "debugging", "git", "agile", "deployment",
+    "object-oriented", "rest", "sql", "performance"
+  ],
+  "Data Analyst": [
+    "data", "analysis", "visualization", "sql", "dashboard",
+    "metrics", "insights", "python", "excel", "reporting",
+    "statistics", "correlation", "trend", "cleaning"
+  ],
+  "HR Executive": [
+    "recruitment", "onboarding", "employee", "performance",
+    "retention", "conflict", "talent", "benefits", "culture",
+    "engagement", "satisfaction", "review", "development"
+  ]
+}
